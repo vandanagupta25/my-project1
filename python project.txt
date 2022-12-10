@@ -1,1 +1,5 @@
 Print("Hello World")
+a=(type a number)
+b=(type a number)
+sum= (int(a)+int(b))
+print(sum)
